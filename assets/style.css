@@ -170,6 +170,7 @@ section {
 }
 
 .section__pic-container {
+  float:left;
   display: flex;
   height: 400px;
   width: 400px;
@@ -190,8 +191,12 @@ section {
 }
 
 .section__text__p2 {
-  font-size: 1.75rem;
+  font-size: 2.0rem;
   margin-bottom: 1rem;
+}
+#tmu-logo img{
+    width:50px;
+    height:25px;
 }
 
 .title {
